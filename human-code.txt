@@ -1,0 +1,94 @@
+Accendo il computer
+    clicco il pulsante di accenzione
+Mi siedo sulla sedia
+    sposto la sedia verso dietro
+    siedo sulla sedia
+    mi posiziono in maniera comoda
+Apro il browser
+    diriggo il puntatore verso il browser sul desktop
+    clicco con il tasto sinistro del mouse due volte
+Apro il sito github
+    vado nella barra di ricerca
+    clicco con il tasto sinistro del mouse due volte
+    digito le letter "git"
+    SE 
+        *esce l'url giusto premo invio per essere indirizato sul sito
+    ATRIMENTI
+        *continuo digitando "hub.com"
+Clicco su "new repository"
+    diriggo il puntatore verso "new repository"
+    clicco con il tasto sinistro del mouse
+Apro Slack
+    diriggo il puntatore verso "slack" nella barra delle applicazioni
+    clicco con il tasto sinistro del mouse
+Apro la chat classe46_comunicazioni
+    diriggo il puntatore verso "classe46_comunicazioni"
+    clicco con il tasto sinistro del mouse
+Controllo gli ultimi messaggi mandati da Simone
+Copio il nome della repository
+    diriggo il puntatore verso il titolo della repository
+    trascino il mouse con il tasto sinistro cliccato lungo tutto il titolo
+    digito i tasti "Ctrl+C"
+Incollo il nome della repository su github
+    diriggo il puntatore verso il browser nella barra delle applicazioni
+    clicco con il tasto sinistro
+    dirigo il puntatore verso la sezione da va posto il titolo
+    digito i tasti "Ctrl+V"
+Creo la nuova repository
+    diriggo il puntatore verso "New Repository"
+    clicco con il pulsante sinistro
+Apro Visual Studio
+    diriggo il puntatore verso "mostra desktop"
+    diriggo il puntatore verso "Visual Studio"
+    clicco con il pulsante sinistro due volte
+Importo la repository nel mio computer
+    SE
+        *non è aperto nessun file clicco su clone repository
+            diriggo il puntatore verso clone repository
+            clicco con il pulsante sinistro
+    ALTRIMENTI
+        *apro un nuova finestra
+            diriggo il puntatore verso "file"
+            clicco con il pulsante sinistro
+            diriggo il puntatore verso "new windows"
+            clicco con il pulsante sinistro
+        clicco su clone repository
+            diriggo il puntatore verso clone repository
+            clicco con il pulsante sinistro
+    seleziono la repository interessata
+        diriggo il puntatore verso la tendina creata da Visual Studio
+        clicco con il pulsante sinistro "clone from github"
+        punto la repository interessata
+        clicco con il pulsante sinistro
+    seleziono il percorso dove creo la repository sul mio computer
+        diriggo il puntatore verso "desktop"
+        clicco con il pulsante sinistro
+        diriggo il puntatore verso "progetti boolean"
+        clicco con il pulsante sinistro
+        diriggo il puntatore verso "Select Repository Location"
+        clicco con il pulsante sinistro
+Creo un file HTML
+    diriggo il puntatore verso la casella "new file" accanto al nome della repository
+    clicco con il pulsante sinistro
+    digito "Index.html"
+Creo un file CSS
+    diriggo il puntatore verso la casella "new file" accanto al nome della repository
+    clicco con il pulsante sinistro
+    digito "Style.css"
+Posiziono i file HTML e CSS nella schermata di Visual Studio
+    diriggo il puntatore verso il file "Index.html" nella schermatasi sinistra di Visual Studio
+    tengo premuto il pusante sinistro e trascino il file nella parte destra della schermata di Visual Studio
+    diriggo il puntatore verso il file "Style.css" nella schermatasi sinistra di Visual Studio
+    tengo premuto il pusante sinistro e trascino il file nella parte destra più estrema della schermata di Visual Studio
+Scrivo l'head in HTML
+    diriggo il puntatore verso il file "Index.html"
+    clicco con il pulsante sinistro
+    diriggo il puntatore verso la prima riga
+    clicco con il pulsante sinistro
+    digito "ht"
+        SE
+            *esce la tendin che indica l'autocompilazione dell'head clicco "enter"
+        ATRIMENTI
+            *continuo a digitare "ml"
+             clicco enter
+    
