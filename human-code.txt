@@ -91,4 +91,131 @@ Scrivo l'head in HTML
         ATRIMENTI
             *continuo a digitare "ml"
              clicco enter
-    
+Apro Slack
+    diriggo il puntatore verso "slack" nella barra delle applicazioni
+    clicco con il tasto sinistro del mouse
+Scarico i file con gli screen e le immagini che mi servono
+    diriggo il puntatore verso il file zip
+    clicco con il tasto sinistro
+Apro la cartella Download
+    diriggo il puntatore verso nella barra delle applicazioni
+    clicco con il tasto destro
+    diriggo il puntatore verso la cartella "Download"
+    clicco con il tasto sinistro
+Apro il file zip
+    diriggo il puntatore verso il file zip
+    clicco con il tasto sinistro due volte
+Apro la cartella "progetti boolean"
+    diriggo il puntatore verso "mostra desktop"
+    clicco con il tasto sinistro
+    diriggo il puntatore verso la cartella "progetti boolean"
+    clicco con il tasto sinistro
+Sposto la cartella "Img" nella cartella della nuova repository
+    diriggo il puntatore verso la cartella "Img" nel file zip
+    tengo premuto il pusante sinistro e trascino il file sulla carella della nuova repository
+Sposto la cartella "screen" sul desktop
+    diriggo il puntatore verso la cartella "screen" nel file zip
+    tengo premuto il pusante sinistro e trascino il file sul desktop
+Apro la cartella con gli screen
+    diriggo il puntatore verso la cartella con gli screen sul desktop
+    clicco con il tasto sinistro due volte
+Apro il file dello screen
+    diriggo il puntatore verso il file con lo screen
+    clicco con il tasto sinistro due volte
+Analizzo il layout
+Porto lo screen nel secondo monitor
+     diriggo il puntatore verso lo screen aperto
+     tengo premuto il pusante sinistro e trascino il file sul secondo monitor
+Torno su Visual Studio
+    diriggo il puntatore verso "Visual Studio" nella barra delle applicazioni
+    clicco con il tasto sinistro
+Creo un una sezione header
+    diriggo il puntatore fra le scritte body
+    clicco con il tasto sinistro
+    digito "<header"
+        SE
+            *esce l'autocompilazione clicco enter
+        INVECE
+            *continuo a scrivere "> </header>
+Creo una sezione main
+    diriggo il puntatore sotto l'header
+    clicco con il tasto sinistro
+    digito "<main"
+        SE
+            *esce l'autocompilazione clicco enter
+        INVECE
+            *continuo a scrivere "> </main>
+Creo una sezione footer
+    diriggo il puntatore sotto il main
+    clicco con il tasto sinistro
+    digito "<footer"
+        SE
+            *esce l'autocompilazione clicco enter
+        INVECE
+            *continuo a scrivere "> </footer>
+Analizzo lo scren nel secondo monitor
+Creo una sezione dentro main con un ID
+    diriggo il puntatore fra la sezione del main 
+    clicco con il tasto sinistro
+    digito "<section"
+        SE
+            *esce l'autocompilazione clicco enter
+        INVECE
+            *continuo a scrivere "> </section>
+    diriggo il puntatore fra "section" e ">"
+    clicco con il tasto sinistro
+    digito "id"
+        SE
+            *esce l'autocompilazione clicco enter
+        INVECE
+            *continuo a scrivere "="""
+    diriggo il puntatore fra """" per la scrivere id
+    clicco con il tasto sinistro
+    digito il "******"
+Creo una sezione dentro main con un ID
+    diriggo il puntatore fra la sezione del main 
+    clicco con il tasto sinistro
+    digito "<section"
+        SE
+            *esce l'autocompilazione clicco enter
+        INVECE
+            *continuo a scrivere "> </section>
+    diriggo il puntatore fra "section" e ">"
+    clicco con il tasto sinistro
+    digito "id"
+        SE
+            *esce l'autocompilazione clicco enter
+        INVECE
+            *continuo a scrivere "="""
+    diriggo il puntatore fra """" per la scrivere id
+    clicco con il tasto sinistro
+    digito il "******"
+Creo una sezione dentro main con un ID
+    diriggo il puntatore fra la sezione del main 
+    clicco con il tasto sinistro
+    digito "<section"
+        SE
+            *esce l'autocompilazione clicco enter
+        INVECE
+            *continuo a scrivere "> </section>
+    diriggo il puntatore fra "section" e ">"
+    clicco con il tasto sinistro
+    digito "id"
+        SE
+            *esce l'autocompilazione clicco enter
+        INVECE
+            *continuo a scrivere "="""
+    diriggo il puntatore fra """" per la scrivere id
+    clicco con il tasto sinistro
+    digito il "******"
+Creo un commit
+    digito "Ctrl+shift+G"
+    diriggo il puntatore nella barra di testo
+    clicco con il tasto sinistro
+    digito "layout started"
+    digito "Ctrl+enter"
+Invio un push
+    diriggo il puntatore verso i tre puntini del menù source control
+    clicco con il tasto sinistro
+    diriggo il puntatore sulla scritta "push"
+    clicco con il tasto sinistro
